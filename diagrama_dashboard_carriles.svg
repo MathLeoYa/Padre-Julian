@@ -1,0 +1,287 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2090" height="2330" viewBox="0 0 2090 2330" font-family="DejaVu Sans, Arial, sans-serif" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTozMTgwNDRiZi1kZWYzLTQ1MzItOWZiYS1hNGRiZTI1NzUyMjMAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaECV7i1Cfc/q67ALokAfgOEAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpiNTkyMzFlZS0wOTJmLTQxMzQtOTMyYy04OWJjMGUzN2Y2ZDlscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoexgNlXxHEyDvZzwPX1T70gAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggZynvaEGPd1YkjZPjMBZL4tdlOhKiBkWllwgbVEDPGkCkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaGSoa4Cbixj2zHNnrRp44EsAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCAvKPuqMNZvuh14B8RLe8gMp5EivF+gEJI8mqoiHohhBGRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjHZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjMxODA0NGJmLWRlZjMtNDUzMi05ZmJhLWE0ZGJlMjU3NTIyMy9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmYyNWI1NDk4LTkyY2MtNDYxNi05NmMxLTM0ZGRiZjU4MDAxNXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBnKe9oQY93ViSNk+MwFkvi12U6EqIGRaWXCBtUQM8aQKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggI8YtNzMFUfDea2eX+Qnwgc5m3eNz+4lGalNWJuZAPbWiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggQMtTM53C67XL0kuAlzu7Vyn7zkjwUH1/ADLWyrD0OU50Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQLsoDV+TQF/KJEVvF/EfLQJbAAnUTNfwNpgUaMgu6yYP7Vze0Wq6VgnFgDXFB4qq9YSZPLNRduovjhopKoo60WQ=</c2pa:manifest></metadata>
+<defs>
+<marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker>
+</defs>
+<rect width="2090" height="2330" fill="#ffffff"/>
+<text x="1045.0" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#111">Diagrama de actividades por carriles: Dashboard gerencial Redmine + Matriz PMO</text>
+<rect x="30" y="55" width="250" height="2220" fill="#fafcff" stroke="#222" stroke-width="1.5"/>
+<rect x="30" y="55" width="250" height="56" fill="#e8eef7" stroke="#222" stroke-width="1.5"/>
+<text x="155.0" y="89.0" text-anchor="middle" font-size="15" font-weight="bold" fill="#111">Desarrollador</text>
+<rect x="280" y="55" width="250" height="2220" fill="#ffffff" stroke="#222" stroke-width="1.5"/>
+<rect x="280" y="55" width="250" height="56" fill="#e8eef7" stroke="#222" stroke-width="1.5"/>
+<text x="405.0" y="89.0" text-anchor="middle" font-size="15" font-weight="bold" fill="#111">Redmine (on-premise)</text>
+<rect x="530" y="55" width="780" height="2220" fill="#fafcff" stroke="#222" stroke-width="1.5"/>
+<rect x="530" y="55" width="780" height="56" fill="#e8eef7" stroke="#222" stroke-width="1.5"/>
+<text x="920.0" y="80.0" text-anchor="middle" font-size="15" font-weight="bold" fill="#111">Sistema Dashboard</text>
+<text x="920.0" y="98.0" text-anchor="middle" font-size="15" font-weight="bold" fill="#111">Gerencial</text>
+<rect x="1310" y="55" width="250" height="2220" fill="#ffffff" stroke="#222" stroke-width="1.5"/>
+<rect x="1310" y="55" width="250" height="56" fill="#e8eef7" stroke="#222" stroke-width="1.5"/>
+<text x="1435.0" y="89.0" text-anchor="middle" font-size="15" font-weight="bold" fill="#111">PMO / Gerencia</text>
+<rect x="1560" y="55" width="250" height="2220" fill="#fafcff" stroke="#222" stroke-width="1.5"/>
+<rect x="1560" y="55" width="250" height="56" fill="#e8eef7" stroke="#222" stroke-width="1.5"/>
+<text x="1685.0" y="80.0" text-anchor="middle" font-size="15" font-weight="bold" fill="#111">Dueño del requerimiento /</text>
+<text x="1685.0" y="98.0" text-anchor="middle" font-size="15" font-weight="bold" fill="#111">Certificador</text>
+<rect x="1810" y="55" width="250" height="2220" fill="#ffffff" stroke="#222" stroke-width="1.5"/>
+<rect x="1810" y="55" width="250" height="56" fill="#e8eef7" stroke="#222" stroke-width="1.5"/>
+<text x="1935.0" y="89.0" text-anchor="middle" font-size="15" font-weight="bold" fill="#111">GitLab y GLPI (Fase 2)</text>
+<line x1="790" y1="111" x2="790" y2="2275" stroke="#c8d3e6" stroke-width="1" stroke-dasharray="3,5"/>
+<line x1="1050" y1="111" x2="1050" y2="2275" stroke="#c8d3e6" stroke-width="1" stroke-dasharray="3,5"/>
+<polyline points="155.0,204.0 155.0,270.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="169.0,190.0 1435.0,190.0 1435.0,270.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="1330.0,300.0 1315.0,300.0 1315.0,506.0 765.0,506.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="260.0,300.0 300.0,300.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="155.0,330.0 155.0,368.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="50.0,410.0 38.0,410.0 38.0,300.0 50.0,300.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="155.0,452.0 155.0,490.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="260.0,520.0 276.0,520.0 276.0,300.0 300.0,300.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="405.0,330.0 405.0,380.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="510.0,410.0 555.0,410.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="660.0,440.0 660.0,490.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="920.0,440.0 920.0,520.0 765.0,520.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="1435.0,600.0 1435.0,534.0 765.0,534.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="660.0,550.0 660.0,588.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="765.0,630.0 815.0,630.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="1025.0,630.0 1330.0,630.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="660.0,672.0 660.0,710.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="660.0,770.0 660.0,808.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="765.0,740.0 1935.0,740.0 1935.0,1370.0" fill="none" stroke="#222" stroke-width="1.6" stroke-dasharray="7,5" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="765.0,850.0 815.0,850.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="660.0,892.0 660.0,918.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="660.0,1002.0 660.0,1040.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="555.0,960.0 543.0,960.0 543.0,1400.0 555.0,1400.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="1025.0,850.0 1580.0,850.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="920.0,880.0 920.0,918.0" fill="none" stroke="#222" stroke-width="1.6" stroke-dasharray="7,5" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="920.0,1002.0 920.0,1040.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="1025.0,960.0 1038.0,960.0 1038.0,1400.0" fill="none" stroke="#222" stroke-width="1.6" stroke-linejoin="round"/>
+<polyline points="1025.0,1070.0 1550.0,1070.0 1550.0,850.0" fill="none" stroke="#222" stroke-width="1.6" stroke-linejoin="round"/>
+<polyline points="815.0,1070.0 800.0,1070.0 800.0,960.0 815.0,960.0" fill="none" stroke="#222" stroke-width="1.6" stroke-dasharray="7,5" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="1685.0,880.0 1685.0,930.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="1685.0,990.0 1685.0,1028.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="1685.0,1112.0 1685.0,1150.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="1790.0,1070.0 1802.0,1070.0 1802.0,1180.0 1790.0,1180.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="1685.0,1210.0 1685.0,1242.0 533.0,1242.0 533.0,300.0 510.0,300.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="660.0,1100.0 660.0,1138.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="765.0,1180.0 815.0,1180.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="660.0,1222.0 660.0,1260.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="920.0,1210.0 920.0,1228.0 155.0,1228.0 155.0,1260.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="50.0,1290.0 38.0,1290.0 38.0,520.0 50.0,520.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="660.0,1320.0 660.0,1370.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="1075.0,1400.0 765.0,1400.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="1830.0,1400.0 1285.0,1400.0" fill="none" stroke="#222" stroke-width="1.6" stroke-dasharray="7,5" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="920.0,1320.0 920.0,1400.0" fill="none" stroke="#222" stroke-width="1.6" stroke-linejoin="round"/>
+<polyline points="1330.0,1290.0 1025.0,1290.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="1435.0,1480.0 1435.0,1320.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="660.0,1430.0 660.0,1480.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="765.0,1510.0 1330.0,1510.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="1435.0,1540.0 1435.0,1578.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="1435.0,1662.0 1435.0,1700.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="1540.0,1620.0 1550.0,1620.0 1550.0,2060.0 1540.0,2060.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="1330.0,1730.0 1315.0,1730.0 1315.0,1678.0 660.0,1678.0 660.0,1688.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="765.0,1730.0 815.0,1730.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="660.0,1772.0 660.0,1810.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="1025.0,1730.0 1298.0,1730.0" fill="none" stroke="#222" stroke-width="1.6" stroke-linejoin="round"/>
+<polyline points="765.0,1950.0 1298.0,1950.0 1298.0,1510.0 1330.0,1510.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="555.0,1840.0 510.0,1840.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="405.0,1870.0 405.0,1908.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="510.0,1950.0 555.0,1950.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="405.0,1992.0 405.0,2060.0 555.0,2060.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="660.0,2090.0 660.0,2115.0 155.0,2115.0 155.0,2140.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="765.0,2060.0 1308.0,2060.0 1308.0,1840.0 1330.0,1840.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="1435.0,1798.0 1435.0,1760.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="1435.0,1882.0 1435.0,2030.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<polyline points="1435.0,2090.0 1435.0,2154.0" fill="none" stroke="#222" stroke-width="1.6" marker-end="url(#ah)" stroke-linejoin="round"/>
+<rect x="61.0" y="390.0" width="20.4" height="16" fill="#ffffff" opacity="0.92"/>
+<text x="64.0" y="402.0" font-size="12" font-weight="bold" fill="#8a1c1c">No</text>
+<rect x="160.0" y="458.0" width="20.4" height="16" fill="#ffffff" opacity="0.92"/>
+<text x="163.0" y="470.0" font-size="12" font-weight="bold" fill="#8a1c1c">Sí</text>
+<rect x="770.0" y="610.0" width="20.4" height="16" fill="#ffffff" opacity="0.92"/>
+<text x="773.0" y="622.0" font-size="12" font-weight="bold" fill="#8a1c1c">No</text>
+<rect x="665.0" y="678.0" width="20.4" height="16" fill="#ffffff" opacity="0.92"/>
+<text x="668.0" y="690.0" font-size="12" font-weight="bold" fill="#8a1c1c">Sí</text>
+<rect x="1612.0" y="720.0" width="49.2" height="16" fill="#ffffff" opacity="0.92"/>
+<text x="1615.0" y="732.0" font-size="12" font-weight="bold" fill="#8a1c1c">Fase 2</text>
+<rect x="770.0" y="830.0" width="20.4" height="16" fill="#ffffff" opacity="0.92"/>
+<text x="773.0" y="842.0" font-size="12" font-weight="bold" fill="#8a1c1c">Sí</text>
+<rect x="665.0" y="898.0" width="20.4" height="16" fill="#ffffff" opacity="0.92"/>
+<text x="668.0" y="910.0" font-size="12" font-weight="bold" fill="#8a1c1c">No</text>
+<rect x="665.0" y="1008.0" width="20.4" height="16" fill="#ffffff" opacity="0.92"/>
+<text x="668.0" y="1020.0" font-size="12" font-weight="bold" fill="#8a1c1c">Sí</text>
+<rect x="530.0" y="940.0" width="20.4" height="16" fill="#ffffff" opacity="0.92"/>
+<text x="533.0" y="952.0" font-size="12" font-weight="bold" fill="#8a1c1c">No</text>
+<rect x="925.0" y="890.0" width="92.4" height="16" fill="#ffffff" opacity="0.92"/>
+<text x="928.0" y="902.0" font-size="12" font-weight="bold" fill="#8a1c1c">reloj 5 días</text>
+<rect x="925.0" y="1008.0" width="20.4" height="16" fill="#ffffff" opacity="0.92"/>
+<text x="928.0" y="1020.0" font-size="12" font-weight="bold" fill="#8a1c1c">Sí</text>
+<rect x="1028.0" y="940.0" width="20.4" height="16" fill="#ffffff" opacity="0.92"/>
+<text x="1031.0" y="952.0" font-size="12" font-weight="bold" fill="#8a1c1c">No</text>
+<rect x="803.0" y="1000.0" width="70.8" height="16" fill="#ffffff" opacity="0.92"/>
+<text x="806.0" y="1012.0" font-size="12" font-weight="bold" fill="#8a1c1c">reevaluar</text>
+<rect x="1690.0" y="1118.0" width="63.6" height="16" fill="#ffffff" opacity="0.92"/>
+<text x="1693.0" y="1130.0" font-size="12" font-weight="bold" fill="#8a1c1c">Aprobado</text>
+<rect x="1723.0" y="1094.0" width="70.8" height="16" fill="#ffffff" opacity="0.92"/>
+<text x="1726.0" y="1106.0" font-size="12" font-weight="bold" fill="#8a1c1c">Rechazado</text>
+<rect x="770.0" y="1160.0" width="20.4" height="16" fill="#ffffff" opacity="0.92"/>
+<text x="773.0" y="1172.0" font-size="12" font-weight="bold" fill="#8a1c1c">Sí</text>
+<rect x="665.0" y="1232.0" width="20.4" height="16" fill="#ffffff" opacity="0.92"/>
+<text x="668.0" y="1244.0" font-size="12" font-weight="bold" fill="#8a1c1c">No</text>
+<rect x="1777.0" y="1380.0" width="49.2" height="16" fill="#ffffff" opacity="0.92"/>
+<text x="1780.0" y="1392.0" font-size="12" font-weight="bold" fill="#8a1c1c">Fase 2</text>
+<rect x="1440.0" y="1666.0" width="20.4" height="16" fill="#ffffff" opacity="0.92"/>
+<text x="1443.0" y="1678.0" font-size="12" font-weight="bold" fill="#8a1c1c">Sí</text>
+<rect x="1541.0" y="1600.0" width="20.4" height="16" fill="#ffffff" opacity="0.92"/>
+<text x="1544.0" y="1612.0" font-size="12" font-weight="bold" fill="#8a1c1c">No</text>
+<rect x="770.0" y="1710.0" width="20.4" height="16" fill="#ffffff" opacity="0.92"/>
+<text x="773.0" y="1722.0" font-size="12" font-weight="bold" fill="#8a1c1c">No</text>
+<rect x="665.0" y="1780.0" width="20.4" height="16" fill="#ffffff" opacity="0.92"/>
+<text x="668.0" y="1792.0" font-size="12" font-weight="bold" fill="#8a1c1c">Sí</text>
+<rect x="515.0" y="1930.0" width="20.4" height="16" fill="#ffffff" opacity="0.92"/>
+<text x="518.0" y="1942.0" font-size="12" font-weight="bold" fill="#8a1c1c">No</text>
+<rect x="410.0" y="1998.0" width="20.4" height="16" fill="#ffffff" opacity="0.92"/>
+<text x="413.0" y="2010.0" font-size="12" font-weight="bold" fill="#8a1c1c">Sí</text>
+<rect x="1440.0" y="1800.0" width="20.4" height="16" fill="#ffffff" opacity="0.92"/>
+<text x="1443.0" y="1812.0" font-size="12" font-weight="bold" fill="#8a1c1c">Sí</text>
+<rect x="1440.0" y="1888.0" width="20.4" height="16" fill="#ffffff" opacity="0.92"/>
+<text x="1443.0" y="1900.0" font-size="12" font-weight="bold" fill="#8a1c1c">No</text>
+<circle cx="155" cy="190" r="14" fill="#111"/>
+<text x="177" y="184" font-size="13" font-weight="bold">Inicio</text>
+<rect x="50.0" y="270.0" width="210" height="60" rx="6" fill="#ffffff" stroke="#2f5d9b" stroke-width="2"/>
+<text x="155" y="297.0" text-anchor="middle" font-size="12.5" fill="#111">Registrar tarea o seguimiento</text>
+<text x="155" y="312.0" text-anchor="middle" font-size="12.5" fill="#111">en Redmine</text>
+<polygon points="155,368.0 260.0,410 155,452.0 50.0,410" fill="#fff4d6" stroke="#b8860b" stroke-width="2"/>
+<text x="155" y="407.0" text-anchor="middle" font-size="12" fill="#111">¿Desarrollo listo</text>
+<text x="155" y="422.0" text-anchor="middle" font-size="12" fill="#111">para certificar?</text>
+<rect x="50.0" y="490.0" width="210" height="60" rx="6" fill="#ffffff" stroke="#2f5d9b" stroke-width="2"/>
+<text x="155" y="517.0" text-anchor="middle" font-size="12.5" fill="#111">Cambiar estado a</text>
+<text x="155" y="532.0" text-anchor="middle" font-size="12.5" fill="#111">Certificación</text>
+<rect x="50.0" y="1260.0" width="210" height="60" rx="6" fill="#ffffff" stroke="#2f5d9b" stroke-width="2"/>
+<text x="155" y="1287.0" text-anchor="middle" font-size="12.5" fill="#111">Corregir observaciones del</text>
+<text x="155" y="1302.0" text-anchor="middle" font-size="12.5" fill="#111">certificador</text>
+<rect x="50.0" y="2140.0" width="210" height="60" rx="6" fill="#ffffff" stroke="#2f5d9b" stroke-width="2"/>
+<text x="155" y="2167.0" text-anchor="middle" font-size="12.5" fill="#111">Recibir notificación de</text>
+<text x="155" y="2182.0" text-anchor="middle" font-size="12.5" fill="#111">repriorización</text>
+<rect x="300.0" y="270.0" width="210" height="60" rx="6" fill="#ffffff" stroke="#2f5d9b" stroke-width="2"/>
+<text x="405" y="304.5" text-anchor="middle" font-size="12.5" fill="#111">Guardar cambio en MySQL</text>
+<rect x="300.0" y="380.0" width="210" height="60" rx="6" fill="#ffffff" stroke="#2f5d9b" stroke-width="2"/>
+<text x="405" y="407.0" text-anchor="middle" font-size="12.5" fill="#111">Disparar webhook y exponer</text>
+<text x="405" y="422.0" text-anchor="middle" font-size="12.5" fill="#111">API REST</text>
+<rect x="300.0" y="1810.0" width="210" height="60" rx="6" fill="#ffffff" stroke="#2f5d9b" stroke-width="2"/>
+<text x="405" y="1837.0" text-anchor="middle" font-size="12.5" fill="#111">Aplicar nueva prioridad vía</text>
+<text x="405" y="1852.0" text-anchor="middle" font-size="12.5" fill="#111">API</text>
+<polygon points="405,1908.0 510.0,1950 405,1992.0 300.0,1950" fill="#fff4d6" stroke="#b8860b" stroke-width="2"/>
+<text x="405" y="1954.5" text-anchor="middle" font-size="12" fill="#111">¿API respondió OK?</text>
+<rect x="555.0" y="380.0" width="210" height="60" rx="6" fill="#ffffff" stroke="#2f5d9b" stroke-width="2"/>
+<text x="660" y="414.5" text-anchor="middle" font-size="12.5" fill="#111">Recibir evento webhook</text>
+<rect x="555.0" y="490.0" width="210" height="60" rx="6" fill="#ffffff" stroke="#2f5d9b" stroke-width="2"/>
+<text x="660" y="517.0" text-anchor="middle" font-size="12.5" fill="#111">Validar proyecto contra</text>
+<text x="660" y="532.0" text-anchor="middle" font-size="12.5" fill="#111">matriz PMO por ID de mapeo</text>
+<polygon points="660,588.0 765.0,630 660,672.0 555.0,630" fill="#fff4d6" stroke="#b8860b" stroke-width="2"/>
+<text x="660" y="634.5" text-anchor="middle" font-size="12" fill="#111">¿Proyecto mapeado?</text>
+<rect x="555.0" y="710.0" width="210" height="60" rx="6" fill="#ffffff" stroke="#2f5d9b" stroke-width="2"/>
+<text x="660" y="737.0" text-anchor="middle" font-size="12.5" fill="#111">Actualizar avance, recurso,</text>
+<text x="660" y="752.0" text-anchor="middle" font-size="12.5" fill="#111">dueño y estado</text>
+<polygon points="660,808.0 765.0,850 660,892.0 555.0,850" fill="#fff4d6" stroke="#b8860b" stroke-width="2"/>
+<text x="660" y="847.0" text-anchor="middle" font-size="12" fill="#111">¿Estado =</text>
+<text x="660" y="862.0" text-anchor="middle" font-size="12" fill="#111">Certificación?</text>
+<polygon points="660,918.0 765.0,960 660,1002.0 555.0,960" fill="#fff4d6" stroke="#b8860b" stroke-width="2"/>
+<text x="660" y="949.5" text-anchor="middle" font-size="12" fill="#111">¿Estado =</text>
+<text x="660" y="964.5" text-anchor="middle" font-size="12" fill="#111">Certificado o</text>
+<text x="660" y="979.5" text-anchor="middle" font-size="12" fill="#111">Rechazado?</text>
+<rect x="555.0" y="1040.0" width="210" height="60" rx="6" fill="#ffffff" stroke="#2f5d9b" stroke-width="2"/>
+<text x="660" y="1067.0" text-anchor="middle" font-size="12.5" fill="#111">Registrar resultado y tiempo</text>
+<text x="660" y="1082.0" text-anchor="middle" font-size="12.5" fill="#111">de respuesta de certificación</text>
+<polygon points="660,1138.0 765.0,1180 660,1222.0 555.0,1180" fill="#fff4d6" stroke="#b8860b" stroke-width="2"/>
+<text x="660" y="1184.5" text-anchor="middle" font-size="12" fill="#111">¿Fue rechazado?</text>
+<rect x="555.0" y="1260.0" width="210" height="60" rx="6" fill="#ffffff" stroke="#2f5d9b" stroke-width="2"/>
+<text x="660" y="1279.5" text-anchor="middle" font-size="12.5" fill="#111">Calcular indicadores:</text>
+<text x="660" y="1294.5" text-anchor="middle" font-size="12.5" fill="#111">atendidos, seguimientos,</text>
+<text x="660" y="1309.5" text-anchor="middle" font-size="12.5" fill="#111">certificaciones y atrasos</text>
+<rect x="555.0" y="1370.0" width="210" height="60" rx="6" fill="#ffffff" stroke="#2f5d9b" stroke-width="2"/>
+<text x="660" y="1404.5" text-anchor="middle" font-size="12.5" fill="#111">Publicar tablero actualizado</text>
+<rect x="555.0" y="1480.0" width="210" height="60" rx="6" fill="#ffffff" stroke="#2f5d9b" stroke-width="2"/>
+<text x="660" y="1507.0" text-anchor="middle" font-size="12.5" fill="#111">Autenticar con cuenta</text>
+<text x="660" y="1522.0" text-anchor="middle" font-size="12.5" fill="#111">centralizada y asignar rol</text>
+<polygon points="660,1688.0 765.0,1730 660,1772.0 555.0,1730" fill="#fff4d6" stroke="#b8860b" stroke-width="2"/>
+<text x="660" y="1727.0" text-anchor="middle" font-size="12" fill="#111">¿Usuario autorizado</text>
+<text x="660" y="1742.0" text-anchor="middle" font-size="12" fill="#111">a repriorizar?</text>
+<rect x="555.0" y="1810.0" width="210" height="60" rx="6" fill="#ffffff" stroke="#2f5d9b" stroke-width="2"/>
+<text x="660" y="1837.0" text-anchor="middle" font-size="12.5" fill="#111">Guardar prioridad con</text>
+<text x="660" y="1852.0" text-anchor="middle" font-size="12.5" fill="#111">histórico de auditoría</text>
+<rect x="555.0" y="1920.0" width="210" height="60" rx="6" fill="#ffffff" stroke="#2f5d9b" stroke-width="2"/>
+<text x="660" y="1947.0" text-anchor="middle" font-size="12.5" fill="#111">Revertir cambio y alertar al</text>
+<text x="660" y="1962.0" text-anchor="middle" font-size="12.5" fill="#111">PMO</text>
+<rect x="555.0" y="2030.0" width="210" height="60" rx="6" fill="#ffffff" stroke="#2f5d9b" stroke-width="2"/>
+<text x="660" y="2049.5" text-anchor="middle" font-size="12.5" fill="#111">Notificar repriorización a</text>
+<text x="660" y="2064.5" text-anchor="middle" font-size="12.5" fill="#111">afectados por correo y</text>
+<text x="660" y="2079.5" text-anchor="middle" font-size="12.5" fill="#111">Rocket.Chat</text>
+<rect x="815.0" y="380.0" width="210" height="60" rx="6" fill="#ffffff" stroke="#2f5d9b" stroke-width="2"/>
+<text x="920" y="407.0" text-anchor="middle" font-size="12.5" fill="#111">Polling de respaldo cada 5 a</text>
+<text x="920" y="422.0" text-anchor="middle" font-size="12.5" fill="#111">10 minutos</text>
+<rect x="815.0" y="600.0" width="210" height="60" rx="6" fill="#ffffff" stroke="#2f5d9b" stroke-width="2"/>
+<text x="920" y="627.0" text-anchor="middle" font-size="12.5" fill="#111">Registrar en cola de</text>
+<text x="920" y="642.0" text-anchor="middle" font-size="12.5" fill="#111">conciliación</text>
+<rect x="815.0" y="820.0" width="210" height="60" rx="6" fill="#ffffff" stroke="#2f5d9b" stroke-width="2"/>
+<text x="920" y="839.5" text-anchor="middle" font-size="12.5" fill="#111">Notificar al dueño del</text>
+<text x="920" y="854.5" text-anchor="middle" font-size="12.5" fill="#111">requerimiento e iniciar reloj</text>
+<text x="920" y="869.5" text-anchor="middle" font-size="12.5" fill="#111">de 5 días</text>
+<polygon points="920,918.0 1025.0,960 920,1002.0 815.0,960" fill="#fff4d6" stroke="#b8860b" stroke-width="2"/>
+<text x="920" y="949.5" text-anchor="middle" font-size="12" fill="#111">¿Sigue en</text>
+<text x="920" y="964.5" text-anchor="middle" font-size="12" fill="#111">Certificación al</text>
+<text x="920" y="979.5" text-anchor="middle" font-size="12" fill="#111">vencer los 5 días?</text>
+<rect x="815.0" y="1040.0" width="210" height="60" rx="6" fill="#ffffff" stroke="#2f5d9b" stroke-width="2"/>
+<text x="920" y="1067.0" text-anchor="middle" font-size="12.5" fill="#111">Enviar alerta recordatorio y</text>
+<text x="920" y="1082.0" text-anchor="middle" font-size="12.5" fill="#111">marcar certificación atrasada</text>
+<rect x="815.0" y="1150.0" width="210" height="60" rx="6" fill="#ffffff" stroke="#2f5d9b" stroke-width="2"/>
+<text x="920" y="1177.0" text-anchor="middle" font-size="12.5" fill="#111">Notificar observaciones al</text>
+<text x="920" y="1192.0" text-anchor="middle" font-size="12.5" fill="#111">desarrollador</text>
+<rect x="815.0" y="1260.0" width="210" height="60" rx="6" fill="#ffffff" stroke="#2f5d9b" stroke-width="2"/>
+<text x="920" y="1287.0" text-anchor="middle" font-size="12.5" fill="#111">Guardar acta de sprint</text>
+<text x="920" y="1302.0" text-anchor="middle" font-size="12.5" fill="#111">asociada al proyecto</text>
+<rect x="815.0" y="1700.0" width="210" height="60" rx="6" fill="#ffffff" stroke="#2f5d9b" stroke-width="2"/>
+<text x="920" y="1727.0" text-anchor="middle" font-size="12.5" fill="#111">Rechazar cambio y registrar</text>
+<text x="920" y="1742.0" text-anchor="middle" font-size="12.5" fill="#111">intento en auditoría</text>
+<rect x="1075.0" y="1370.0" width="210" height="60" rx="6" fill="#ffffff" stroke="#2f5d9b" stroke-width="2"/>
+<text x="1180" y="1397.0" text-anchor="middle" font-size="12.5" fill="#111">Calcular carga y asignación</text>
+<text x="1180" y="1412.0" text-anchor="middle" font-size="12.5" fill="#111">por persona</text>
+<rect x="1330.0" y="270.0" width="210" height="60" rx="6" fill="#ffffff" stroke="#2f5d9b" stroke-width="2"/>
+<text x="1435" y="297.0" text-anchor="middle" font-size="12.5" fill="#111">Cargar matriz Excel inicial:</text>
+<text x="1435" y="312.0" text-anchor="middle" font-size="12.5" fill="#111">avance, recurso, dueño</text>
+<rect x="1330.0" y="600.0" width="210" height="60" rx="6" fill="#ffffff" stroke="#2f5d9b" stroke-width="2"/>
+<text x="1435" y="627.0" text-anchor="middle" font-size="12.5" fill="#111">Resolver conciliación de</text>
+<text x="1435" y="642.0" text-anchor="middle" font-size="12.5" fill="#111">nombres de proyecto</text>
+<rect x="1330.0" y="1260.0" width="210" height="60" rx="6" fill="#ffffff" stroke="#2f5d9b" stroke-width="2"/>
+<text x="1435" y="1279.5" text-anchor="middle" font-size="12.5" fill="#111">Subir acta de sprint y</text>
+<text x="1435" y="1294.5" text-anchor="middle" font-size="12.5" fill="#111">escalar necesidades del</text>
+<text x="1435" y="1309.5" text-anchor="middle" font-size="12.5" fill="#111">proyecto</text>
+<rect x="1330.0" y="1480.0" width="210" height="60" rx="6" fill="#ffffff" stroke="#2f5d9b" stroke-width="2"/>
+<text x="1435" y="1514.5" text-anchor="middle" font-size="12.5" fill="#111">Consultar tablero gerencial</text>
+<polygon points="1435,1578.0 1540.0,1620 1435,1662.0 1330.0,1620" fill="#fff4d6" stroke="#b8860b" stroke-width="2"/>
+<text x="1435" y="1617.0" text-anchor="middle" font-size="12" fill="#111">¿Normativa o cambio</text>
+<text x="1435" y="1632.0" text-anchor="middle" font-size="12" fill="#111">exige repriorizar?</text>
+<rect x="1330.0" y="1700.0" width="210" height="60" rx="6" fill="#ffffff" stroke="#2f5d9b" stroke-width="2"/>
+<text x="1435" y="1727.0" text-anchor="middle" font-size="12.5" fill="#111">Modificar prioridad 1, 2 o 3</text>
+<text x="1435" y="1742.0" text-anchor="middle" font-size="12.5" fill="#111">de uno o varios proyectos</text>
+<polygon points="1435,1798.0 1540.0,1840 1435,1882.0 1330.0,1840" fill="#fff4d6" stroke="#b8860b" stroke-width="2"/>
+<text x="1435" y="1837.0" text-anchor="middle" font-size="12" fill="#111">¿Hay más proyectos</text>
+<text x="1435" y="1852.0" text-anchor="middle" font-size="12" fill="#111">por repriorizar?</text>
+<rect x="1330.0" y="2030.0" width="210" height="60" rx="6" fill="#ffffff" stroke="#2f5d9b" stroke-width="2"/>
+<text x="1435" y="2064.5" text-anchor="middle" font-size="12.5" fill="#111">Generar reporte trimestral</text>
+<circle cx="1435" cy="2170" r="16" fill="#fff" stroke="#111" stroke-width="2"/>
+<circle cx="1435" cy="2170" r="10" fill="#111"/>
+<text x="1461" y="2175" font-size="13" font-weight="bold">Fin</text>
+<rect x="1580.0" y="820.0" width="210" height="60" rx="6" fill="#ffffff" stroke="#2f5d9b" stroke-width="2"/>
+<text x="1685" y="847.0" text-anchor="middle" font-size="12.5" fill="#111">Recibir alerta: realizar</text>
+<text x="1685" y="862.0" text-anchor="middle" font-size="12.5" fill="#111">pruebas en 5 días</text>
+<rect x="1580.0" y="930.0" width="210" height="60" rx="6" fill="#ffffff" stroke="#2f5d9b" stroke-width="2"/>
+<text x="1685" y="957.0" text-anchor="middle" font-size="12.5" fill="#111">Ejecutar pruebas de</text>
+<text x="1685" y="972.0" text-anchor="middle" font-size="12.5" fill="#111">certificación</text>
+<polygon points="1685,1028.0 1790.0,1070 1685,1112.0 1580.0,1070" fill="#fff4d6" stroke="#b8860b" stroke-width="2"/>
+<text x="1685" y="1067.0" text-anchor="middle" font-size="12" fill="#111">¿Resultado de las</text>
+<text x="1685" y="1082.0" text-anchor="middle" font-size="12" fill="#111">pruebas?</text>
+<rect x="1580.0" y="1150.0" width="210" height="60" rx="6" fill="#ffffff" stroke="#2f5d9b" stroke-width="2"/>
+<text x="1685" y="1177.0" text-anchor="middle" font-size="12.5" fill="#111">Registrar resultado y</text>
+<text x="1685" y="1192.0" text-anchor="middle" font-size="12.5" fill="#111">observaciones en Redmine</text>
+<rect x="1830.0" y="1370.0" width="210" height="60" rx="6" fill="#ffffff" stroke="#2f5d9b" stroke-width="2"/>
+<text x="1935" y="1397.0" text-anchor="middle" font-size="12.5" fill="#111">Consultar commits, merge</text>
+<text x="1935" y="1412.0" text-anchor="middle" font-size="12.5" fill="#111">requests e incidencias</text>
+<text x="30" y="2308" font-size="12" fill="#333">Línea continua: flujo principal.  Línea punteada: temporizador, reevaluación o integración de Fase 2.  Rombo amarillo: decisión.</text>
+</svg>
